@@ -2,7 +2,7 @@
   
   # ✧･ﾟ: *✧･ﾟ 𝑲𝒊𝒓𝒊𝒈𝒊𝒓𝒊𝑿 *:･ﾟ✧*:･ﾟ✧
 
-  <img src="maxV2.png" alt="Kirigiri Banner" width="400px"/>
+  <img src="maxV2.png" alt="Kirigiri Banner" width="800px"/>
   
   <img src="https://media.tenor.com/Ry1-Pr-C56gAAAAC/kyoko-kirigiri-danganronpa.gif" width="200px"/>
   
