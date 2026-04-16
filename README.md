@@ -10,29 +10,20 @@
   [![WumaShxrl](https://img.shields.io/badge/WebSite-WumaShxrk-0080ff?style=for-the-badge&labelColor=fee1ff&logoColor=white)](https://wumashxrk.xyz)
   [![Visitors](https://img.shields.io/badge/Selfbot-Discord-0080ff?style=for-the-badge&labelColor=ffffff&logoColor=white)](https://sb.wumashxrk.xyz)
 
-<div align="center">
-  
-  ╭──── ⋅ ⋅ ✩ ⋅ ⋅ ────╮
-  
-  ♡ Developpeuse de Jour, Crackeuse de Nuit ♡
-  
-  ╰──── ⋅ ⋅ ✩ ⋅ ⋅ ────╯
-  
-</div>
-
 ## 🌸 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 🌸
 
 <img align="right" src="https://i.ibb.co/8DFpVDRJ/Kirigri03251.png" width="280"/>
 
 <p align="left">
-  こんにちは! (Hello!) Je suis <b>KirigiriX</b>, une développeuse passionnée aux talents de détective numérique. Inspirée par la légendaire Kyoko Kirigiri, j'approche le code et le cracking de jeux avec la même logique implacable et élégance.
+  안녕하세요! (Salut!) Je suis <b>WumaShxrk</b>, un <b>VibeCoder</b> passionnée qui mélange fluidité technique et esthétique numérique. 🌌✨<br><br>
+  Pour moi, le code est une question de "flow". J'aime créer des outils qui simplifient la vie tout en gardant une ambiance visuelle soignée. Que ce soit pour développer des utilitaires ou optimiser mon environnement, je cherche toujours l'équilibre parfait entre l'efficacité et le style.
 </p>
 
-- ⭐ **Activités**: Développement, Reverse Engineering, Cracking
+- ⭐ **Activités**: Développement d'outils, Optimisation, Cracking
 - 💜 **Passions**: Jeux vidéo, Anime, Esthétique japonaise
-- 🔍 **Spécialité**: Trouver des solutions là où les autres abandonnent
+- 🔍 **Spécialité**: Créer des expériences fluides et stylées
 - 🎮 **Membre actif**: Communauté CS.RIN.RU
-- 🌟 **Motto**: "La logique est la clé de tout mystère"
+- 🌟 **Motto**: "Pas besoin d'être une machine pour coder, il suffit d'avoir la bonne fréquence."
 
 <div align="center">
   <img src="https://i.imgur.com/kdPov6r.png" width="400px"/>
