@@ -59,7 +59,7 @@
 ## 📊 𝑺𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒒𝒖𝒆𝒔 𝑮𝒊𝒕𝑯𝒖𝒃 📊
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WumaShxrk&show_icons=true&title_color=ffffff&icon_color=ff0080&text_color=ffffff&bg_color=ff0080&border_color=ff69b4&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WumaShxrk&show_icons=true&title_color=ffffff&icon_color=ff0080&text_color=ffffff&bg_color=ff0080&border_color=ff69b4&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 </div>
 
 <div align="center">
