@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   
   # ✧･ﾟ: *✧･ﾟ 𝑲𝒊𝒓𝒊𝒈𝒊𝒓𝒊𝑿 *:･ﾟ✧*:･ﾟ✧
 
@@ -52,7 +52,7 @@
   
   [![Discord](https://img.shields.io/badge/Discord-newscarification-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=fee1ff&color=0080ff)](https://discord.gg/zn2a2A65My)
   [![Guns.lol](https://img.shields.io/badge/GUNS.LOL-Profile-0080ff?style=for-the-badge&labelColor=white)](https://guns.lol/wumashxrk)
-  [![WumaShxrk.xyz](https://img.shields.io/badge/WebSite-WumaShxrk.xyz-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=white&color=0080ff)](https://wumashxrk.xyz)
+  [![WumaShxrk.xyz](https://img.shields.io/badge/WebSite-WumaShxrk.xyz-0080ff?style=for-the-badge&labelColor=fee1ff&color=0080ff)](https://wumashxrk.xyz)
   
 </div>
 
