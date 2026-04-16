@@ -1,19 +1,23 @@
- <div align="center">
+<div align="center">
   
-  # ✧･ﾟ: *✧･ﾟ 𝑲𝒊𝒓𝒊𝒈𝒊𝒓𝒊𝑿 *:･ﾟ✧*:･ﾟ✧
+  # ✧･ﾟ: *✧･ﾟ 𝑾𝒖𝒎𝒂𝑺𝒉𝒙𝒓𝒌 *:･ﾟ✧*:･ﾟ✧
 
-  <img src="maxV2.png" alt="Kirigiri Banner" style="width: 100%; height: 300px; object-fit: cover; object-position: center;"/>
+  <img src="maxV2.png" alt="WumaShxrk Banner" style="width: 100%; height: 300px; object-fit: cover; object-position: center;"/>
   
+  <br />
   <img src="https://media.tenor.com/Ry1-Pr-C56gAAAAC/kyoko-kirigiri-danganronpa.gif" width="200px"/>
+  <br />
   
   [![GitHub followers](https://img.shields.io/github/followers/WumaShxrk?style=for-the-badge&color=0080ff&labelColor=fee1ff&logoColor=white)](https://github.com/WumaShxrk)
-  [![WumaShxrl](https://img.shields.io/badge/WebSite-WumaShxrk-0080ff?style=for-the-badge&labelColor=fee1ff&logoColor=white)](https://wumashxrk.xyz)
+  [![WebSite](https://img.shields.io/badge/WebSite-WumaShxrk-0080ff?style=for-the-badge&labelColor=fee1ff&logoColor=white)](https://wumashxrk.xyz)
   [![Selfbot](https://img.shields.io/badge/Selfbot-Discord-0080ff?style=for-the-badge&labelColor=ffffff&logoColor=white)](https://sb.wumashxrk.xyz)
 
-## 🌸 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 🌸
+</div>
+
+## 💙 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 💙
 
 <a href="https://ibb.co/k61PkpmW">
-  <img align="right" src="https://i.ibb.co/5xFJtdKf/0a7f967eb57a8f570ae4da75d15d68ca.jpg" alt="0a7f967eb57a8f570ae4da75d15d68ca" border="0" width="280">
+  <img align="right" src="https://i.ibb.co/5xFJtdKf/0a7f967eb57a8f570ae4da75d15d68ca.jpg" alt="WumaShxrk Avatar" border="0" width="280">
 </a>
 
 <p align="left">
@@ -22,12 +26,18 @@
 </p>
 
 - ⭐ **Activités**: Développement d'outils, Optimisation, Cracking
-- 💜 **Passions**: Jeux vidéo, Anime, Esthétique japonaise
+- 💙 **Passions**: Jeux vidéo, Anime, Esthétique Cyber-Blue
 - 🔍 **Spécialité**: Créer des expériences fluides et stylées
 - 🎮 **Membre actif**: Communauté CS.RIN.RU
 - 🌟 **Motto**: "Pas besoin d'être une machine pour coder, il suffit d'avoir la bonne fréquence."
 
-## 🎀 𝑷𝒓𝒐𝒋𝒆𝒕𝒔 𝑪𝒉𝒐𝒖𝒄𝒉𝒐𝒖𝒔 🎀
+<div align="center">
+  <a href="https://ibb.co/BVvtR35x">
+    <img src="https://i.ibb.co/d0XryMwq/7e617230ae15f4cb117aef7595f79d0b.jpg" alt="Banner Middle" border="0" width="400px">
+  </a>
+</div>
+
+## 💎 𝑷𝒓𝒐𝒋𝒆𝒕𝒔 𝑪𝒉𝒐𝒖𝒄𝒉𝒐𝒖𝒔 💎
 
 <div align="center">
   
@@ -41,42 +51,20 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/ae/f3/a9/aef3a9715e0face5f30fee87b365ea99.gif" width="400px"/>
   <br />
-  <code>💕 Tous les mystères du code peuvent être résolus avec suffisamment de patience 💕</code>
+  <code>🔹 Tous les mystères du code peuvent être résolus avec suffisamment de patience 🔹</code>
 </div>
 
-## 🏮 𝑪𝒐𝒏𝒕𝒂𝒄𝒕𝒆𝒛-𝑴𝒐𝒊 🏮
+## 🌐 𝑪𝒐𝒏𝒕𝒂𝒄𝒕𝒆𝒛-𝑴𝒐𝒊 🌐
 
 <div align="center">
   
-  [![Discord](https://img.shields.io/badge/Discord-newscarification-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=fee1ff&color=0080ff)](https://discord.gg/zn2a2A65My)
+  [![Discord](https://img.shields.io/badge/Discord-newscarification-0080ff?style=for-the-badge&logo=discord&logoColor=white&labelColor=fee1ff)](https://discord.gg/zn2a2A65My)
   [![Guns.lol](https://img.shields.io/badge/GUNS.LOL-Profile-0080ff?style=for-the-badge&labelColor=white)](https://guns.lol/wumashxrk)
-  [![WumaShxrk.xyz](https://img.shields.io/badge/WebSite-WumaShxrk.xyz-0080ff?style=for-the-badge&labelColor=fee1ff&color=0080ff)](https://wumashxrk.xyz)
+  [![WumaShxrk.xyz](https://img.shields.io/badge/WebSite-WumaShxrk.xyz-0080ff?style=for-the-badge&labelColor=fee1ff)](https://wumashxrk.xyz)
   
 </div>
 
 ## 📊 𝑺𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒒𝒖𝒆𝒔 𝑮𝒊𝒕𝑯𝒖𝒃 📊
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WumaShxrk&show_icons=true&title_color=ffffff&icon_color=fee1ff&text_color=ffffff&bg_color=0080ff&border_color=fee1ff&count_private=true"/>
-</div>
-
-<div align="center">
-  <img src="https://media1.tenor.com/m/YnczRP00UhwAAAAC/kyoko-kirigiri.gif" width="250px" />
-</div>
-
-<div align="center">
-  
-  ╭──── ⋅ ⋅ ✩ ⋅ ⋅ ────╮
-  
-  <i>"Une fleur ne pense pas à rivaliser avec celle d'à côté. Elle fleurit, c'est tout."</i>
-  
-  ╰──── ⋅ ⋅ ✩ ⋅ ⋅ ────╯
-  
-  <a href="https://github.com/KirigiriX">
-  </a>
-  <br />
-  <br />
-  
-  🌸 𝐂𝐫éé 𝐚𝐯𝐞𝐜 𝐚𝐦𝐨𝐮𝐫, 𝐥𝐨𝐠𝐢𝐪𝐮𝐞 𝐞𝐭 𝐟𝐥𝐞𝐮𝐫𝐬 𝐝𝐞 𝐜𝐞𝐫𝐢𝐬𝐢𝐞𝐫 🌸
-  
-</div>
+  <img height="160em" src="
