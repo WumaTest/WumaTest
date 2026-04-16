@@ -9,9 +9,6 @@
   [![GitHub followers](https://img.shields.io/github/followers/WumaShxrk?style=for-the-badge&color=0080ff&labelColor=fee1ff&logoColor=white)](https://github.com/WumaShxrk)
   [![WumaShxrl](https://img.shields.io/badge/WebSite-WumaShxrk-0080ff?style=for-the-badge&labelColor=fee1ff&logoColor=white)](https://wumashxrk.xyz)
   [![Visitors](https://img.shields.io/badge/Selfbot-Discord-0080ff?style=for-the-badge&labelColor=ffffff&logoColor=white)](https://sb.wumashxrk.xyz)
-  
-  <p><i>「謎を解くのが好き」- "I enjoy solving mysteries"</i></p>
-</div>
 
 <div align="center">
   
