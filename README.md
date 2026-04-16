@@ -27,12 +27,6 @@
 - 🎮 **Membre actif**: Communauté CS.RIN.RU
 - 🌟 **Motto**: "Pas besoin d'être une machine pour coder, il suffit d'avoir la bonne fréquence."
 
-<div align="center">
-  <a href="https://ibb.co/BVvtR35x">
-    <img src="https://i.ibb.co/d0XryMwq/7e617230ae15f4cb117aef7595f79d0b.jpg" alt="7e617230ae15f4cb117aef7595f79d0b" border="0" width="400px">
-  </a>
-</div>
-
 ## 🎀 𝑷𝒓𝒐𝒋𝒆𝒕𝒔 𝑪𝒉𝒐𝒖𝒄𝒉𝒐𝒖𝒔 🎀
 
 <div align="center">
