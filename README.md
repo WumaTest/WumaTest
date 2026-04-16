@@ -52,7 +52,7 @@
   
   [![Discord](https://img.shields.io/badge/Discord-newscarification-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=fee1ff&color=0080ff)](https://discord.gg/zn2a2A65My)
   [![Guns.lol](https://img.shields.io/badge/GUNS.LOL-Profile-ff69b4?style=for-the-badge&labelColor=0080ff)](https://guns.lol/wumashxrk)
-  [![WumaShxrk.xyz](https://img.shields.io/badge/WebSite-WumaShxrk.xyz-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=fee1ff&color=0080ff)](https://wumashxrk.xyz)
+  [![WumaShxrk.xyz](https://img.shields.io/badge/WebSite-WumaShxrk.xyz-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0080ff&color=ffffff)](https://wumashxrk.xyz)
   
 </div>
 
