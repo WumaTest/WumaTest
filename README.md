@@ -1,6 +1,6 @@
 <div align="center">
   
-  # ✧･ﾟ: *✧･ﾟ 𝑾𝒖𝒎𝒂𝑺𝒉𝒙𝒓𝒌 *:･ﾟ✧*:･ﾟ✧
+  # ✧･ﾟ: *✧･ﾟ ᴡᴜᴍᴀꜱʜxʀᴋ *:･ﾟ✧*:･ﾟ✧
 
   <img src="maxV2.png" alt="WumaShxrk Banner" style="width: 100%; height: 300px; object-fit: cover; object-position: center;"/>
   
@@ -14,22 +14,21 @@
 
 </div>
 
-## 💙 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 💙
+## 💙 ᴀʙᴏᴜᴛ ᴍᴇ 💙
 
 <a href="https://ibb.co/k61PkpmW">
   <img align="right" src="https://i.ibb.co/5xFJtdKf/0a7f967eb57a8f570ae4da75d15d68ca.jpg" alt="WumaShxrk Avatar" border="0" width="280">
 </a>
 
 <p align="left">
-  안녕하세요! (Salut!) Je suis <b>WumaShxrk</b>, un <b>VibeCoder</b> passionnée qui mélange fluidité technique et esthétique numérique. 🌌✨<br><br>
-  Pour moi, le code est une question de "flow". J'aime créer des outils qui simplifient la vie tout en gardant une ambiance visuelle soignée. Que ce soit pour développer des utilitaires ou optimiser mon environnement, je cherche toujours l'équilibre parfait entre l'efficacité et le style.
+  안녕하세요! (Hello!) I am <b>WumaShxrk</b>, a passionate <b>VibeCoder</b> blending technical fluidity with digital aesthetics. 🌌✨<br><br>
+  For me, coding is all about "flow." I love creating tools that simplify life while maintaining a polished visual atmosphere. Whether I'm developing utilities or optimizing my environment, I always seek the perfect balance between efficiency and style.
 </p>
 
-- ⭐ **Activités**: Développement d'outils, Optimisation, Cracking
-- 💙 **Passions**: Jeux vidéo, Anime, Esthétique Cyber-Blue
-- 🔍 **Spécialité**: Créer des expériences fluides et stylées
-- 🎮 **Membre actif**: Communauté CS.RIN.RU
-- 🌟 **Motto**: "Pas besoin d'être une machine pour coder, il suffit d'avoir la bonne fréquence."
+- ⭐ Activities: Tool Development, Optimization, Graphic Design
+- 💙 Passions: Video Games, Anime, Code and Graphic Design
+- 🔍 Specialty: Crafting smooth and stylish digital experiences
+- 🌟 Motto: "No need to be a machine to code, you just need the right frequency."
 
 <div align="center">
   <a href="https://ibb.co/BVvtR35x">
@@ -37,24 +36,24 @@
   </a>
 </div>
 
-## 💎 𝑷𝒓𝒐𝒋𝒆𝒕𝒔 𝑪𝒉𝒐𝒖𝒄𝒉𝒐𝒖𝒔 💎
+## 🚀 ᴍᴀɪɴ ʀᴇᴘᴏꜱɪᴛᴏʀɪᴇꜱ
 
 <div align="center">
   
-| 📁 | 𝑷𝒓𝒐𝒋𝒆𝒕 | 𝑫𝒆𝒔𝒄𝒓𝒊𝒑𝒕𝒊𝒐𝒏 | 𝑺𝒕𝒂𝒕𝒖𝒕 |
+| 📁 | ᴄᴏɴᴛᴀᴄᴛ-ᴍᴇ | ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ | ꜱᴛᴀᴛᴜᴛ |
 |:---:|:-------:|:----------:|:------:|
-| 🦈 | [ShxrkCleaner](https://github.com/WumaShxrk/ShxrkCleaner) | Outil permettant de nettoyer votre PC en toute sécurité | 💙 Actif |
-| 🎁 | [Token Helper](https://github.com/WumaShxrk/token-helper) | Outil de récupération de sessions Discord en local | 💙 Actif |
+| 🦈 | [ShxrkCleaner](https://github.com/WumaShxrk/ShxrkCleaner) | A tool to safely clean and optimize your PC | 💙 Actif |
+| 🎁 | [Token Helper](https://github.com/WumaShxrk/token-helper) | A tool to retrieve your Discord token from your local machine | 💙 Actif |
 
 </div>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/ae/f3/a9/aef3a9715e0face5f30fee87b365ea99.gif" width="400px"/>
   <br />
-  <code>🔹 Tous les mystères du code peuvent être résolus avec suffisamment de patience 🔹</code>
+  <code>🔹 Code is just a frequency, you just need to tune in 🔹</code>
 </div>
 
-## 🌐 𝑪𝒐𝒏𝒕𝒂𝒄𝒕𝒆𝒛-𝑴𝒐𝒊 🌐
+## 🌐 ᴄᴏɴᴛᴀᴄᴛᴇᴢ-ᴍᴏɪ 🌐
 
 <div align="center">
   
@@ -64,7 +63,7 @@
   
 </div>
 
-## 📊 𝑺𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒒𝒖𝒆𝒔 𝑮𝒊𝒕𝑯𝒖𝒃 📊
+## 📊 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛɪꜱᴛɪᴄꜱ 📊
 
 <div align="center">
   <img height="160em" src="
