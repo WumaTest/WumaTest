@@ -2,7 +2,7 @@
   
   # ✧･ﾟ: *✧･ﾟ 𝑲𝒊𝒓𝒊𝒈𝒊𝒓𝒊𝑿 *:･ﾟ✧*:･ﾟ✧
 
-  [![max-V2.png](https://i.postimg.cc/44Y0v31j/max-V2.png)](https://postimg.cc/dDKnwwp9)
+  <a href="https://postimg.cc/dDKnwwp9"><img src="https://i.postimg.cc/44Y0v31j/max-V2.png" alt="Kirigiri Aesthetic Banner" width="400px"/></a>
   
   <img src="https://media.tenor.com/Ry1-Pr-C56gAAAAC/kyoko-kirigiri-danganronpa.gif" width="200px"/>
   
