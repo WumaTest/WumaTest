@@ -7,7 +7,7 @@
   <img src="https://media.tenor.com/Ry1-Pr-C56gAAAAC/kyoko-kirigiri-danganronpa.gif" width="200px"/>
   
   [![GitHub followers](https://img.shields.io/github/followers/WumaShxrk?style=for-the-badge&color=0080ff&labelColor=fee1ff&logoColor=white)](https://github.com/WumaShxrk)
-  [![WumaShxrl](https://img.shields.io/badge/CS.RIN.RU-Profile-0080ff?style=for-the-badge&labelColor=fee1ff&logoColor=white)](https://cs.rin.ru/forum/memberlist.php?mode=viewprofile&u=1147494)
+  [![WumaShxrl](https://img.shields.io/badge/WebSite-WumaShxrk-0080ff?style=for-the-badge&labelColor=fee1ff&logoColor=white)](https://wumashxrk.xyz)
   [![Visitors](https://img.shields.io/badge/visitors-welcome-0080ff?style=for-the-badge&labelColor=ffffff&logoColor=white)](https://github.com/WumaShxrk)
   
   <p><i>「謎を解くのが好き」- "I enjoy solving mysteries"</i></p>
