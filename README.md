@@ -12,7 +12,9 @@
 
 ## 🌸 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 🌸
 
-<img align="right" src="https://i.ibb.co/8DFpVDRJ/Kirigri03251.png" width="280"/>
+<a href="https://ibb.co/k61PkpmW">
+  <img align="right" src="https://i.ibb.co/5xFJtdKf/0a7f967eb57a8f570ae4da75d15d68ca.jpg" alt="0a7f967eb57a8f570ae4da75d15d68ca" border="0" width="280">
+</a>
 
 <p align="left">
   안녕하세요! (Salut!) Je suis <b>WumaShxrk</b>, un <b>VibeCoder</b> passionnée qui mélange fluidité technique et esthétique numérique. 🌌✨<br><br>
