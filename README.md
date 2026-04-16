@@ -53,7 +53,7 @@
   <code>🔹 Code is just a frequency, you just need to tune in 🔹</code>
 </div>
 
-## 🌐 ᴄᴏɴᴛᴀᴄᴛᴇᴢ-ᴍᴏɪ 🌐
+## 🌐 ᴄᴏɴᴛᴀᴄᴛ-ᴍᴇ 🌐
 
 <div align="center">
   
