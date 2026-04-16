@@ -8,7 +8,7 @@
   
   [![GitHub followers](https://img.shields.io/github/followers/WumaShxrk?style=for-the-badge&color=0080ff&labelColor=fee1ff&logoColor=white)](https://github.com/WumaShxrk)
   [![WumaShxrl](https://img.shields.io/badge/WebSite-WumaShxrk-0080ff?style=for-the-badge&labelColor=fee1ff&logoColor=white)](https://wumashxrk.xyz)
-  [![Visitors](https://img.shields.io/badge/Selfbot-Discord-0080ff?style=for-the-badge&labelColor=ffffff&logoColor=white)](https://sb.wumashxrk.xyz)
+  [![Selfbot](https://img.shields.io/badge/Selfbot-Discord-0080ff?style=for-the-badge&labelColor=ffffff&logoColor=white)](https://sb.wumashxrk.xyz)
 
 ## 🌸 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 🌸
 
@@ -51,8 +51,8 @@
 <div align="center">
   
   [![Discord](https://img.shields.io/badge/Discord-newscarification-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=fee1ff&color=0080ff)](https://discord.gg/zn2a2A65My)
-  [![Guns.lol](https://img.shields.io/badge/GUNS.LOL-Profile-ff69b4?style=for-the-badge&labelColor=0080ff)](https://guns.lol/wumashxrk)
-  [![WumaShxrk.xyz](https://img.shields.io/badge/WebSite-WumaShxrk.xyz-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0080ff&color=ffffff)](https://wumashxrk.xyz)
+  [![Guns.lol](https://img.shields.io/badge/GUNS.LOL-Profile-0080ff?style=for-the-badge&labelColor=white)](https://guns.lol/wumashxrk)
+  [![WumaShxrk.xyz](https://img.shields.io/badge/WebSite-WumaShxrk.xyz-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=white&color=0080ff)](https://wumashxrk.xyz)
   
 </div>
 
