@@ -40,10 +40,10 @@
 
 <div align="center">
   
-| 📁 | ᴄᴏɴᴛᴀᴄᴛ-ᴍᴇ | ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ | ꜱᴛᴀᴛᴜᴛ |
+| 📁 | ᴄᴏɴᴛᴀᴄᴛ-ᴍᴇ | ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ | ꜱᴛᴀ𝒕𝒖𝒕 |
 |:---:|:-------:|:----------:|:------:|
-| 🦈 | [ShxrkCleaner](https://github.com/WumaShxrk/ShxrkCleaner) | A tool to safely clean and optimize your PC | 💙 Actif |
-| 🎁 | [Token Helper](https://github.com/WumaShxrk/token-helper) | A tool to retrieve your Discord token from your local machine | 💙 Actif |
+| 🦈 | [ShxrkCleaner](https://github.com/WumaShxrk/ShxrkCleaner) | A tool to safely clean and optimize your PC | 💙 Active |
+| 🎁 | [Token Helper](https://github.com/WumaShxrk/token-helper) | A tool to retrieve your Discord token from your local machine | 💙 Active |
 
 </div>
 
@@ -66,4 +66,14 @@
 ## 📊 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛɪꜱᴛɪᴄꜱ 📊
 
 <div align="center">
-  <img height="160em" src="
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WumaShxrk&show_icons=true&title_color=ffffff&icon_color=fee1ff&text_color=ffffff&bg_color=0080ff&border_color=fee1ff&count_private=true"/>
+</div>
+
+<div align="center">
+  <img src="https://media1.tenor.com/m/YnczRP00UhwAAAAC/kyoko-kirigiri.gif" width="250px" />
+</div>
+  <br />
+  
+  🔹 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐰𝐢𝐭𝐡 𝐥𝐨𝐯𝐞, 𝐥𝐨𝐠𝐢𝐜 𝐚𝐧𝐝 𝐛𝐥𝐮𝐞 𝐯𝐢𝐛𝐞𝐬 🔹
+  
+</div>
